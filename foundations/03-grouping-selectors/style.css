@@ -1,0 +1,13 @@
+.black-area, .yellow-area {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.black-area {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+}
+
+.yellow-area {
+    background-color: hsl(60, 100%, 50%);
+}
